@@ -1,0 +1,1111 @@
+[2019-08-14 11:52:44,283] {scheduler_job.py:146} INFO - Started process (PID=2972) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:52:44,286] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:52:44,287] {logging_mixin.py:95} INFO - [2019-08-14 11:52:44,287] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:52:44,294] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:52:44,311] {logging_mixin.py:95} INFO - [2019-08-14 11:52:44,310] {dag.py:1303} INFO - Creating ORM DAG for blah1
+[2019-08-14 11:52:44,340] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.057 seconds
+[2019-08-14 11:52:56,300] {scheduler_job.py:146} INFO - Started process (PID=2978) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:52:56,304] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:52:56,304] {logging_mixin.py:95} INFO - [2019-08-14 11:52:56,304] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:52:56,313] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:52:56,356] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.056 seconds
+[2019-08-14 11:53:08,313] {scheduler_job.py:146} INFO - Started process (PID=2985) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:53:08,317] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:53:08,318] {logging_mixin.py:95} INFO - [2019-08-14 11:53:08,318] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:53:08,327] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:53:08,378] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.065 seconds
+[2019-08-14 11:53:20,326] {scheduler_job.py:146} INFO - Started process (PID=2993) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:53:20,329] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:53:20,330] {logging_mixin.py:95} INFO - [2019-08-14 11:53:20,330] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:53:20,337] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:53:20,373] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.047 seconds
+[2019-08-14 11:53:32,340] {scheduler_job.py:146} INFO - Started process (PID=3001) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:53:32,344] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:53:32,344] {logging_mixin.py:95} INFO - [2019-08-14 11:53:32,344] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:53:32,351] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:53:32,390] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 11:53:44,355] {scheduler_job.py:146} INFO - Started process (PID=3010) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:53:44,358] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:53:44,359] {logging_mixin.py:95} INFO - [2019-08-14 11:53:44,359] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:53:44,371] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:53:44,412] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.057 seconds
+[2019-08-14 11:53:56,368] {scheduler_job.py:146} INFO - Started process (PID=3018) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:53:56,372] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:53:56,372] {logging_mixin.py:95} INFO - [2019-08-14 11:53:56,372] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:53:56,379] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:53:56,415] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.047 seconds
+[2019-08-14 11:54:08,380] {scheduler_job.py:146} INFO - Started process (PID=3024) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:54:08,384] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:54:08,384] {logging_mixin.py:95} INFO - [2019-08-14 11:54:08,384] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:54:08,391] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:54:08,430] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 11:54:20,396] {scheduler_job.py:146} INFO - Started process (PID=3033) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:54:20,400] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:54:20,401] {logging_mixin.py:95} INFO - [2019-08-14 11:54:20,400] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:54:20,408] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:54:20,447] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 11:54:32,409] {scheduler_job.py:146} INFO - Started process (PID=3039) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:54:32,413] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:54:32,413] {logging_mixin.py:95} INFO - [2019-08-14 11:54:32,413] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:54:32,420] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:54:32,457] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.048 seconds
+[2019-08-14 11:54:44,436] {scheduler_job.py:146} INFO - Started process (PID=3046) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:54:44,444] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:54:44,444] {logging_mixin.py:95} INFO - [2019-08-14 11:54:44,444] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:54:44,459] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:54:44,537] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.100 seconds
+[2019-08-14 11:54:56,441] {scheduler_job.py:146} INFO - Started process (PID=3052) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:54:56,445] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:54:56,446] {logging_mixin.py:95} INFO - [2019-08-14 11:54:56,446] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:54:56,453] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:54:56,495] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.054 seconds
+[2019-08-14 11:55:08,453] {scheduler_job.py:146} INFO - Started process (PID=3058) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:55:08,456] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:55:08,457] {logging_mixin.py:95} INFO - [2019-08-14 11:55:08,457] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:55:08,463] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:55:08,506] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.053 seconds
+[2019-08-14 11:55:20,467] {scheduler_job.py:146} INFO - Started process (PID=3067) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:55:20,470] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:55:20,471] {logging_mixin.py:95} INFO - [2019-08-14 11:55:20,471] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:55:20,478] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:55:20,522] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.056 seconds
+[2019-08-14 11:55:32,480] {scheduler_job.py:146} INFO - Started process (PID=3075) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:55:32,484] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:55:32,484] {logging_mixin.py:95} INFO - [2019-08-14 11:55:32,484] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:55:32,492] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:55:32,551] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.071 seconds
+[2019-08-14 11:55:44,496] {scheduler_job.py:146} INFO - Started process (PID=3081) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:55:44,500] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:55:44,500] {logging_mixin.py:95} INFO - [2019-08-14 11:55:44,500] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:55:44,508] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:55:44,551] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.055 seconds
+[2019-08-14 11:55:56,514] {scheduler_job.py:146} INFO - Started process (PID=3088) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:55:56,519] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:55:56,519] {logging_mixin.py:95} INFO - [2019-08-14 11:55:56,519] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:55:56,529] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:55:56,586] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.072 seconds
+[2019-08-14 11:56:08,523] {scheduler_job.py:146} INFO - Started process (PID=3096) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:56:08,528] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:56:08,528] {logging_mixin.py:95} INFO - [2019-08-14 11:56:08,528] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:56:08,535] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:56:08,580] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.057 seconds
+[2019-08-14 11:56:20,536] {scheduler_job.py:146} INFO - Started process (PID=3102) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:56:20,539] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:56:20,540] {logging_mixin.py:95} INFO - [2019-08-14 11:56:20,540] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:56:20,547] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:56:20,584] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.048 seconds
+[2019-08-14 11:56:32,554] {scheduler_job.py:146} INFO - Started process (PID=3109) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:56:32,558] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:56:32,558] {logging_mixin.py:95} INFO - [2019-08-14 11:56:32,558] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:56:32,566] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:56:32,605] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.052 seconds
+[2019-08-14 11:56:44,564] {scheduler_job.py:146} INFO - Started process (PID=3115) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:56:44,567] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:56:44,567] {logging_mixin.py:95} INFO - [2019-08-14 11:56:44,567] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:56:44,573] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:56:44,620] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.056 seconds
+[2019-08-14 11:56:56,577] {scheduler_job.py:146} INFO - Started process (PID=3122) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:56:56,580] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:56:56,581] {logging_mixin.py:95} INFO - [2019-08-14 11:56:56,581] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:56:56,587] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:56:56,628] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 11:57:08,594] {scheduler_job.py:146} INFO - Started process (PID=3130) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:57:08,597] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:57:08,598] {logging_mixin.py:95} INFO - [2019-08-14 11:57:08,597] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:57:08,604] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:57:08,657] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.063 seconds
+[2019-08-14 11:57:20,605] {scheduler_job.py:146} INFO - Started process (PID=3136) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:57:20,608] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:57:20,608] {logging_mixin.py:95} INFO - [2019-08-14 11:57:20,608] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:57:20,613] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:57:20,653] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.048 seconds
+[2019-08-14 11:57:32,623] {scheduler_job.py:146} INFO - Started process (PID=3143) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:57:32,626] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:57:32,626] {logging_mixin.py:95} INFO - [2019-08-14 11:57:32,626] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:57:32,633] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:57:32,667] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.044 seconds
+[2019-08-14 11:57:44,637] {scheduler_job.py:146} INFO - Started process (PID=3149) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:57:44,641] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:57:44,642] {logging_mixin.py:95} INFO - [2019-08-14 11:57:44,642] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:57:44,647] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:57:44,696] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.059 seconds
+[2019-08-14 11:57:56,650] {scheduler_job.py:146} INFO - Started process (PID=3155) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:57:56,654] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:57:56,655] {logging_mixin.py:95} INFO - [2019-08-14 11:57:56,655] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:57:56,661] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:57:56,700] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 11:58:08,665] {scheduler_job.py:146} INFO - Started process (PID=3164) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:58:08,671] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:58:08,672] {logging_mixin.py:95} INFO - [2019-08-14 11:58:08,671] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:58:08,678] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:58:08,722] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.056 seconds
+[2019-08-14 11:58:20,678] {scheduler_job.py:146} INFO - Started process (PID=3171) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:58:20,682] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:58:20,683] {logging_mixin.py:95} INFO - [2019-08-14 11:58:20,683] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:58:20,689] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:58:20,726] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.048 seconds
+[2019-08-14 11:58:32,703] {scheduler_job.py:146} INFO - Started process (PID=3178) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:58:32,711] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:58:32,712] {logging_mixin.py:95} INFO - [2019-08-14 11:58:32,711] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:58:32,720] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:58:32,785] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.083 seconds
+[2019-08-14 11:58:44,706] {scheduler_job.py:146} INFO - Started process (PID=3184) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:58:44,711] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:58:44,711] {logging_mixin.py:95} INFO - [2019-08-14 11:58:44,711] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:58:44,717] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:58:44,753] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.047 seconds
+[2019-08-14 11:58:56,722] {scheduler_job.py:146} INFO - Started process (PID=3190) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:58:56,726] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:58:56,726] {logging_mixin.py:95} INFO - [2019-08-14 11:58:56,726] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:58:56,731] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:58:56,768] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.046 seconds
+[2019-08-14 11:59:08,736] {scheduler_job.py:146} INFO - Started process (PID=3199) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:59:08,742] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:59:08,743] {logging_mixin.py:95} INFO - [2019-08-14 11:59:08,743] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:59:08,750] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:59:08,793] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.057 seconds
+[2019-08-14 11:59:20,749] {scheduler_job.py:146} INFO - Started process (PID=3205) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:59:20,753] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:59:20,753] {logging_mixin.py:95} INFO - [2019-08-14 11:59:20,753] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:59:20,758] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:59:20,795] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.047 seconds
+[2019-08-14 11:59:32,762] {scheduler_job.py:146} INFO - Started process (PID=3211) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:59:32,766] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:59:32,766] {logging_mixin.py:95} INFO - [2019-08-14 11:59:32,766] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:59:32,771] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:59:32,804] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.043 seconds
+[2019-08-14 11:59:44,780] {scheduler_job.py:146} INFO - Started process (PID=3218) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:59:44,786] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:59:44,787] {logging_mixin.py:95} INFO - [2019-08-14 11:59:44,787] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:59:44,794] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:59:44,834] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.054 seconds
+[2019-08-14 11:59:56,793] {scheduler_job.py:146} INFO - Started process (PID=3226) to work on /root/airflow/dags/blah1.py
+[2019-08-14 11:59:56,797] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 11:59:56,798] {logging_mixin.py:95} INFO - [2019-08-14 11:59:56,797] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 11:59:56,803] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 11:59:56,841] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.049 seconds
+[2019-08-14 12:00:08,809] {scheduler_job.py:146} INFO - Started process (PID=3232) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:00:08,814] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:00:08,814] {logging_mixin.py:95} INFO - [2019-08-14 12:00:08,814] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:00:08,819] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:00:08,852] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.043 seconds
+[2019-08-14 12:00:20,820] {scheduler_job.py:146} INFO - Started process (PID=3239) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:00:20,824] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:00:20,825] {logging_mixin.py:95} INFO - [2019-08-14 12:00:20,825] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:00:20,830] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:00:20,869] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 12:00:32,836] {scheduler_job.py:146} INFO - Started process (PID=3245) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:00:32,840] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:00:32,840] {logging_mixin.py:95} INFO - [2019-08-14 12:00:32,840] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:00:32,846] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:00:32,884] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.048 seconds
+[2019-08-14 12:00:44,858] {scheduler_job.py:146} INFO - Started process (PID=3252) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:00:44,867] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:00:44,867] {logging_mixin.py:95} INFO - [2019-08-14 12:00:44,867] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:00:44,876] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:00:44,935] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.080 seconds
+[2019-08-14 12:00:56,862] {scheduler_job.py:146} INFO - Started process (PID=3260) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:00:56,866] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:00:56,866] {logging_mixin.py:95} INFO - [2019-08-14 12:00:56,866] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:00:56,871] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:00:56,905] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.043 seconds
+[2019-08-14 12:01:08,879] {scheduler_job.py:146} INFO - Started process (PID=3266) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:01:08,883] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:01:08,883] {logging_mixin.py:95} INFO - [2019-08-14 12:01:08,883] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:01:08,888] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:01:08,931] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.052 seconds
+[2019-08-14 12:01:20,894] {scheduler_job.py:146} INFO - Started process (PID=3273) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:01:20,899] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:01:20,900] {logging_mixin.py:95} INFO - [2019-08-14 12:01:20,900] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:01:20,906] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:01:20,945] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.052 seconds
+[2019-08-14 12:01:32,906] {scheduler_job.py:146} INFO - Started process (PID=3279) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:01:32,911] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:01:32,911] {logging_mixin.py:95} INFO - [2019-08-14 12:01:32,911] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:01:32,916] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:01:32,956] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 12:01:44,921] {scheduler_job.py:146} INFO - Started process (PID=3286) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:01:44,926] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:01:44,927] {logging_mixin.py:95} INFO - [2019-08-14 12:01:44,927] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:01:44,933] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:01:44,973] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.052 seconds
+[2019-08-14 12:01:56,936] {scheduler_job.py:146} INFO - Started process (PID=3294) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:01:56,941] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:01:56,942] {logging_mixin.py:95} INFO - [2019-08-14 12:01:56,942] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:01:56,948] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:01:56,987] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 12:02:08,948] {scheduler_job.py:146} INFO - Started process (PID=3300) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:02:08,954] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:02:08,955] {logging_mixin.py:95} INFO - [2019-08-14 12:02:08,955] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:02:08,962] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:02:09,005] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.057 seconds
+[2019-08-14 12:02:20,963] {scheduler_job.py:146} INFO - Started process (PID=3306) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:02:20,968] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:02:20,969] {logging_mixin.py:95} INFO - [2019-08-14 12:02:20,969] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:02:20,975] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:02:21,020] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.057 seconds
+[2019-08-14 12:02:32,976] {scheduler_job.py:146} INFO - Started process (PID=3312) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:02:32,981] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:02:32,982] {logging_mixin.py:95} INFO - [2019-08-14 12:02:32,981] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:02:32,987] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:02:33,029] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.053 seconds
+[2019-08-14 12:02:44,994] {scheduler_job.py:146} INFO - Started process (PID=3318) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:02:45,000] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:02:45,001] {logging_mixin.py:95} INFO - [2019-08-14 12:02:45,000] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:02:45,006] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:02:45,044] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 12:02:57,007] {scheduler_job.py:146} INFO - Started process (PID=3326) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:02:57,013] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:02:57,014] {logging_mixin.py:95} INFO - [2019-08-14 12:02:57,014] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:02:57,020] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:02:57,058] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 12:03:09,021] {scheduler_job.py:146} INFO - Started process (PID=3332) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:03:09,026] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:03:09,027] {logging_mixin.py:95} INFO - [2019-08-14 12:03:09,027] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:03:09,032] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:03:09,070] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.049 seconds
+[2019-08-14 12:03:21,034] {scheduler_job.py:146} INFO - Started process (PID=3338) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:03:21,039] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:03:21,039] {logging_mixin.py:95} INFO - [2019-08-14 12:03:21,039] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:03:21,045] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:03:21,083] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.049 seconds
+[2019-08-14 12:03:33,049] {scheduler_job.py:146} INFO - Started process (PID=3344) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:03:33,052] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:03:33,053] {logging_mixin.py:95} INFO - [2019-08-14 12:03:33,053] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:03:33,059] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:03:33,103] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.055 seconds
+[2019-08-14 12:03:45,066] {scheduler_job.py:146} INFO - Started process (PID=3350) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:03:45,070] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:03:45,071] {logging_mixin.py:95} INFO - [2019-08-14 12:03:45,071] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:03:45,077] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:03:45,124] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.058 seconds
+[2019-08-14 12:03:57,078] {scheduler_job.py:146} INFO - Started process (PID=3358) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:03:57,081] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:03:57,082] {logging_mixin.py:95} INFO - [2019-08-14 12:03:57,082] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:03:57,087] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:03:57,126] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.048 seconds
+[2019-08-14 12:04:09,093] {scheduler_job.py:146} INFO - Started process (PID=3365) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:04:09,097] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:04:09,098] {logging_mixin.py:95} INFO - [2019-08-14 12:04:09,097] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:04:09,103] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:04:09,148] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.055 seconds
+[2019-08-14 12:04:21,109] {scheduler_job.py:146} INFO - Started process (PID=3371) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:04:21,113] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:04:21,113] {logging_mixin.py:95} INFO - [2019-08-14 12:04:21,113] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:04:21,119] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:04:21,160] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 12:04:33,125] {scheduler_job.py:146} INFO - Started process (PID=3377) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:04:33,130] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:04:33,130] {logging_mixin.py:95} INFO - [2019-08-14 12:04:33,130] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:04:33,138] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:04:33,179] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.054 seconds
+[2019-08-14 12:04:45,136] {scheduler_job.py:146} INFO - Started process (PID=3385) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:04:45,140] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:04:45,141] {logging_mixin.py:95} INFO - [2019-08-14 12:04:45,140] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:04:45,146] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:04:45,189] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.052 seconds
+[2019-08-14 12:04:57,150] {scheduler_job.py:146} INFO - Started process (PID=3391) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:04:57,154] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:04:57,154] {logging_mixin.py:95} INFO - [2019-08-14 12:04:57,154] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:04:57,160] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:04:57,201] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 12:05:09,167] {scheduler_job.py:146} INFO - Started process (PID=3397) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:05:09,171] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:05:09,171] {logging_mixin.py:95} INFO - [2019-08-14 12:05:09,171] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:05:09,177] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:05:09,217] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 12:05:21,180] {scheduler_job.py:146} INFO - Started process (PID=3403) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:05:21,184] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:05:21,185] {logging_mixin.py:95} INFO - [2019-08-14 12:05:21,185] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:05:21,191] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:05:21,241] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.061 seconds
+[2019-08-14 12:05:33,194] {scheduler_job.py:146} INFO - Started process (PID=3409) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:05:33,198] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:05:33,198] {logging_mixin.py:95} INFO - [2019-08-14 12:05:33,198] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:05:33,205] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:05:33,244] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 12:05:45,208] {scheduler_job.py:146} INFO - Started process (PID=3417) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:05:45,211] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:05:45,212] {logging_mixin.py:95} INFO - [2019-08-14 12:05:45,212] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:05:45,218] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:05:45,264] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.057 seconds
+[2019-08-14 12:05:57,222] {scheduler_job.py:146} INFO - Started process (PID=3423) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:05:57,226] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:05:57,226] {logging_mixin.py:95} INFO - [2019-08-14 12:05:57,226] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:05:57,234] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:05:57,277] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.055 seconds
+[2019-08-14 12:06:09,238] {scheduler_job.py:146} INFO - Started process (PID=3429) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:06:09,242] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:06:09,242] {logging_mixin.py:95} INFO - [2019-08-14 12:06:09,242] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:06:09,249] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:06:09,292] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.054 seconds
+[2019-08-14 12:06:21,253] {scheduler_job.py:146} INFO - Started process (PID=3435) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:06:21,257] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:06:21,258] {logging_mixin.py:95} INFO - [2019-08-14 12:06:21,257] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:06:21,265] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:06:21,305] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.053 seconds
+[2019-08-14 12:06:33,265] {scheduler_job.py:146} INFO - Started process (PID=3441) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:06:33,269] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:06:33,270] {logging_mixin.py:95} INFO - [2019-08-14 12:06:33,269] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:06:33,275] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:06:33,318] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.053 seconds
+[2019-08-14 12:06:45,281] {scheduler_job.py:146} INFO - Started process (PID=3449) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:06:45,284] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:06:45,284] {logging_mixin.py:95} INFO - [2019-08-14 12:06:45,284] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:06:45,289] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:06:45,328] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.047 seconds
+[2019-08-14 12:06:57,293] {scheduler_job.py:146} INFO - Started process (PID=3455) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:06:57,297] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:06:57,298] {logging_mixin.py:95} INFO - [2019-08-14 12:06:57,297] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:06:57,303] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:06:57,341] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.048 seconds
+[2019-08-14 12:07:09,308] {scheduler_job.py:146} INFO - Started process (PID=3461) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:07:09,312] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:07:09,312] {logging_mixin.py:95} INFO - [2019-08-14 12:07:09,312] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:07:09,317] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:07:09,363] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.054 seconds
+[2019-08-14 12:07:21,325] {scheduler_job.py:146} INFO - Started process (PID=3467) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:07:21,328] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:07:21,329] {logging_mixin.py:95} INFO - [2019-08-14 12:07:21,329] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:07:21,335] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:07:21,379] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.054 seconds
+[2019-08-14 12:07:33,339] {scheduler_job.py:146} INFO - Started process (PID=3473) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:07:33,343] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:07:33,344] {logging_mixin.py:95} INFO - [2019-08-14 12:07:33,344] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:07:33,350] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:07:33,394] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.055 seconds
+[2019-08-14 12:07:45,352] {scheduler_job.py:146} INFO - Started process (PID=3481) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:07:45,356] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:07:45,356] {logging_mixin.py:95} INFO - [2019-08-14 12:07:45,356] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:07:45,362] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:07:45,403] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 12:07:57,368] {scheduler_job.py:146} INFO - Started process (PID=3487) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:07:57,372] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:07:57,373] {logging_mixin.py:95} INFO - [2019-08-14 12:07:57,372] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:07:57,379] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:07:57,428] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.060 seconds
+[2019-08-14 12:08:09,381] {scheduler_job.py:146} INFO - Started process (PID=3493) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:08:09,385] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:08:09,386] {logging_mixin.py:95} INFO - [2019-08-14 12:08:09,385] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:08:09,392] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:08:09,433] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.053 seconds
+[2019-08-14 12:08:21,394] {scheduler_job.py:146} INFO - Started process (PID=3499) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:08:21,398] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:08:21,399] {logging_mixin.py:95} INFO - [2019-08-14 12:08:21,399] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:08:21,406] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:08:21,462] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.068 seconds
+[2019-08-14 12:08:33,406] {scheduler_job.py:146} INFO - Started process (PID=3507) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:08:33,409] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:08:33,410] {logging_mixin.py:95} INFO - [2019-08-14 12:08:33,410] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:08:33,415] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:08:33,456] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 12:08:45,422] {scheduler_job.py:146} INFO - Started process (PID=3513) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:08:45,425] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:08:45,426] {logging_mixin.py:95} INFO - [2019-08-14 12:08:45,426] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:08:45,431] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:08:45,476] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.054 seconds
+[2019-08-14 12:08:57,437] {scheduler_job.py:146} INFO - Started process (PID=3519) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:08:57,440] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:08:57,441] {logging_mixin.py:95} INFO - [2019-08-14 12:08:57,441] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:08:57,445] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:08:57,486] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.049 seconds
+[2019-08-14 12:09:09,453] {scheduler_job.py:146} INFO - Started process (PID=3525) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:09:09,457] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:09:09,457] {logging_mixin.py:95} INFO - [2019-08-14 12:09:09,457] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:09:09,463] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:09:09,504] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 12:09:21,466] {scheduler_job.py:146} INFO - Started process (PID=3531) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:09:21,469] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:09:21,470] {logging_mixin.py:95} INFO - [2019-08-14 12:09:21,470] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:09:21,474] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:09:21,515] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.048 seconds
+[2019-08-14 12:09:33,480] {scheduler_job.py:146} INFO - Started process (PID=3539) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:09:33,483] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:09:33,484] {logging_mixin.py:95} INFO - [2019-08-14 12:09:33,484] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:09:33,490] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:09:33,536] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.056 seconds
+[2019-08-14 12:09:45,496] {scheduler_job.py:146} INFO - Started process (PID=3545) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:09:45,498] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:09:45,499] {logging_mixin.py:95} INFO - [2019-08-14 12:09:45,499] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:09:45,504] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:09:45,536] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.041 seconds
+[2019-08-14 12:09:57,508] {scheduler_job.py:146} INFO - Started process (PID=3552) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:09:57,512] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:09:57,512] {logging_mixin.py:95} INFO - [2019-08-14 12:09:57,512] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:09:57,518] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:09:57,558] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 12:10:09,523] {scheduler_job.py:146} INFO - Started process (PID=3558) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:10:09,526] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:10:09,527] {logging_mixin.py:95} INFO - [2019-08-14 12:10:09,526] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:10:09,532] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:10:09,567] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.044 seconds
+[2019-08-14 12:10:21,539] {scheduler_job.py:146} INFO - Started process (PID=3564) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:10:21,542] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:10:21,542] {logging_mixin.py:95} INFO - [2019-08-14 12:10:21,542] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:10:21,547] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:10:21,582] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.043 seconds
+[2019-08-14 12:10:33,551] {scheduler_job.py:146} INFO - Started process (PID=3572) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:10:33,554] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:10:33,555] {logging_mixin.py:95} INFO - [2019-08-14 12:10:33,555] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:10:33,559] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:10:33,598] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.046 seconds
+[2019-08-14 12:10:45,566] {scheduler_job.py:146} INFO - Started process (PID=3578) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:10:45,568] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:10:45,569] {logging_mixin.py:95} INFO - [2019-08-14 12:10:45,569] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:10:45,573] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:10:45,612] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.046 seconds
+[2019-08-14 12:10:57,581] {scheduler_job.py:146} INFO - Started process (PID=3584) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:10:57,585] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:10:57,585] {logging_mixin.py:95} INFO - [2019-08-14 12:10:57,585] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:10:57,590] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:10:57,635] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.054 seconds
+[2019-08-14 12:11:09,594] {scheduler_job.py:146} INFO - Started process (PID=3590) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:11:09,597] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:11:09,598] {logging_mixin.py:95} INFO - [2019-08-14 12:11:09,597] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:11:09,602] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:11:09,637] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.043 seconds
+[2019-08-14 12:11:21,608] {scheduler_job.py:146} INFO - Started process (PID=3596) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:11:21,611] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:11:21,612] {logging_mixin.py:95} INFO - [2019-08-14 12:11:21,611] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:11:21,617] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:11:21,650] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.042 seconds
+[2019-08-14 12:11:33,622] {scheduler_job.py:146} INFO - Started process (PID=3604) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:11:33,625] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:11:33,625] {logging_mixin.py:95} INFO - [2019-08-14 12:11:33,625] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:11:33,632] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:11:33,673] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 12:11:45,640] {scheduler_job.py:146} INFO - Started process (PID=3610) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:11:45,644] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:11:45,644] {logging_mixin.py:95} INFO - [2019-08-14 12:11:45,644] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:11:45,649] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:11:45,683] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.042 seconds
+[2019-08-14 12:11:57,654] {scheduler_job.py:146} INFO - Started process (PID=3616) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:11:57,657] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:11:57,657] {logging_mixin.py:95} INFO - [2019-08-14 12:11:57,657] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:11:57,662] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:11:57,691] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.037 seconds
+[2019-08-14 12:12:09,666] {scheduler_job.py:146} INFO - Started process (PID=3622) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:12:09,669] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:12:09,670] {logging_mixin.py:95} INFO - [2019-08-14 12:12:09,670] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:12:09,676] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:12:09,714] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.048 seconds
+[2019-08-14 12:12:21,680] {scheduler_job.py:146} INFO - Started process (PID=3628) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:12:21,684] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:12:21,684] {logging_mixin.py:95} INFO - [2019-08-14 12:12:21,684] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:12:21,689] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:12:21,720] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.040 seconds
+[2019-08-14 12:12:33,697] {scheduler_job.py:146} INFO - Started process (PID=3636) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:12:33,701] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:12:33,702] {logging_mixin.py:95} INFO - [2019-08-14 12:12:33,701] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:12:33,708] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:12:33,752] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.055 seconds
+[2019-08-14 12:12:45,707] {scheduler_job.py:146} INFO - Started process (PID=3642) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:12:45,711] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:12:45,711] {logging_mixin.py:95} INFO - [2019-08-14 12:12:45,711] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:12:45,716] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:12:45,753] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.046 seconds
+[2019-08-14 12:12:57,723] {scheduler_job.py:146} INFO - Started process (PID=3648) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:12:57,726] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:12:57,727] {logging_mixin.py:95} INFO - [2019-08-14 12:12:57,727] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:12:57,732] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:12:57,766] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.043 seconds
+[2019-08-14 12:13:09,737] {scheduler_job.py:146} INFO - Started process (PID=3654) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:13:09,740] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:13:09,740] {logging_mixin.py:95} INFO - [2019-08-14 12:13:09,740] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:13:09,745] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:13:09,783] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.046 seconds
+[2019-08-14 12:13:21,752] {scheduler_job.py:146} INFO - Started process (PID=3662) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:13:21,755] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:13:21,755] {logging_mixin.py:95} INFO - [2019-08-14 12:13:21,755] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:13:21,760] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:13:21,796] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.045 seconds
+[2019-08-14 12:13:33,767] {scheduler_job.py:146} INFO - Started process (PID=3668) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:13:33,771] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:13:33,771] {logging_mixin.py:95} INFO - [2019-08-14 12:13:33,771] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:13:33,778] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:13:33,823] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.056 seconds
+[2019-08-14 12:13:45,779] {scheduler_job.py:146} INFO - Started process (PID=3674) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:13:45,782] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:13:45,783] {logging_mixin.py:95} INFO - [2019-08-14 12:13:45,783] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:13:45,789] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:13:45,831] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.052 seconds
+[2019-08-14 12:13:57,795] {scheduler_job.py:146} INFO - Started process (PID=3680) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:13:57,799] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:13:57,799] {logging_mixin.py:95} INFO - [2019-08-14 12:13:57,799] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:13:57,805] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:13:57,841] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.046 seconds
+[2019-08-14 12:14:09,809] {scheduler_job.py:146} INFO - Started process (PID=3686) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:14:09,812] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:14:09,813] {logging_mixin.py:95} INFO - [2019-08-14 12:14:09,813] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:14:09,819] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:14:09,858] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 12:14:21,822] {scheduler_job.py:146} INFO - Started process (PID=3694) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:14:21,825] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:14:21,826] {logging_mixin.py:95} INFO - [2019-08-14 12:14:21,826] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:14:21,831] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:14:21,870] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.048 seconds
+[2019-08-14 12:14:33,839] {scheduler_job.py:146} INFO - Started process (PID=3700) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:14:33,843] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:14:33,844] {logging_mixin.py:95} INFO - [2019-08-14 12:14:33,844] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:14:33,851] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:14:33,892] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.053 seconds
+[2019-08-14 12:14:45,851] {scheduler_job.py:146} INFO - Started process (PID=3706) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:14:45,855] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:14:45,856] {logging_mixin.py:95} INFO - [2019-08-14 12:14:45,855] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:14:45,861] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:14:45,897] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.045 seconds
+[2019-08-14 12:14:57,870] {scheduler_job.py:146} INFO - Started process (PID=3712) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:14:57,873] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:14:57,874] {logging_mixin.py:95} INFO - [2019-08-14 12:14:57,874] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:14:57,879] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:14:57,915] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.045 seconds
+[2019-08-14 12:15:09,884] {scheduler_job.py:146} INFO - Started process (PID=3718) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:15:09,888] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:15:09,888] {logging_mixin.py:95} INFO - [2019-08-14 12:15:09,888] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:15:09,895] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:15:09,937] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.053 seconds
+[2019-08-14 12:15:21,896] {scheduler_job.py:146} INFO - Started process (PID=3726) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:15:21,899] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:15:21,900] {logging_mixin.py:95} INFO - [2019-08-14 12:15:21,900] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:15:21,905] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:15:21,954] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.058 seconds
+[2019-08-14 12:15:33,908] {scheduler_job.py:146} INFO - Started process (PID=3733) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:15:33,911] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:15:33,911] {logging_mixin.py:95} INFO - [2019-08-14 12:15:33,911] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:15:33,917] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:15:33,964] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.056 seconds
+[2019-08-14 12:15:45,925] {scheduler_job.py:146} INFO - Started process (PID=3739) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:15:45,928] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:15:45,929] {logging_mixin.py:95} INFO - [2019-08-14 12:15:45,929] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:15:45,935] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:15:45,975] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 12:15:57,937] {scheduler_job.py:146} INFO - Started process (PID=3745) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:15:57,941] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:15:57,941] {logging_mixin.py:95} INFO - [2019-08-14 12:15:57,941] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:15:57,947] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:15:57,986] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.049 seconds
+[2019-08-14 12:16:09,952] {scheduler_job.py:146} INFO - Started process (PID=3751) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:16:09,956] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:16:09,956] {logging_mixin.py:95} INFO - [2019-08-14 12:16:09,956] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:16:09,962] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:16:10,003] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 12:16:21,966] {scheduler_job.py:146} INFO - Started process (PID=3759) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:16:21,970] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:16:21,971] {logging_mixin.py:95} INFO - [2019-08-14 12:16:21,970] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:16:21,977] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:16:22,019] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.053 seconds
+[2019-08-14 12:16:33,982] {scheduler_job.py:146} INFO - Started process (PID=3765) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:16:33,985] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:16:33,986] {logging_mixin.py:95} INFO - [2019-08-14 12:16:33,986] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:16:33,991] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:16:34,032] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 12:16:45,996] {scheduler_job.py:146} INFO - Started process (PID=3771) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:16:45,999] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:16:46,000] {logging_mixin.py:95} INFO - [2019-08-14 12:16:46,000] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:16:46,005] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:16:46,043] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.048 seconds
+[2019-08-14 12:16:58,009] {scheduler_job.py:146} INFO - Started process (PID=3777) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:16:58,013] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:16:58,013] {logging_mixin.py:95} INFO - [2019-08-14 12:16:58,013] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:16:58,019] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:16:58,058] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.049 seconds
+[2019-08-14 12:17:10,025] {scheduler_job.py:146} INFO - Started process (PID=3786) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:17:10,029] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:17:10,029] {logging_mixin.py:95} INFO - [2019-08-14 12:17:10,029] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:17:10,035] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:17:10,077] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.052 seconds
+[2019-08-14 12:17:22,038] {scheduler_job.py:146} INFO - Started process (PID=3794) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:17:22,042] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:17:22,042] {logging_mixin.py:95} INFO - [2019-08-14 12:17:22,042] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:17:22,048] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:17:22,089] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 12:17:34,054] {scheduler_job.py:146} INFO - Started process (PID=3800) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:17:34,057] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:17:34,058] {logging_mixin.py:95} INFO - [2019-08-14 12:17:34,058] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:17:34,064] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:17:34,106] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.052 seconds
+[2019-08-14 12:17:46,069] {scheduler_job.py:146} INFO - Started process (PID=3806) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:17:46,073] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:17:46,073] {logging_mixin.py:95} INFO - [2019-08-14 12:17:46,073] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:17:46,079] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:17:46,114] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.045 seconds
+[2019-08-14 12:17:58,083] {scheduler_job.py:146} INFO - Started process (PID=3812) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:17:58,087] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:17:58,087] {logging_mixin.py:95} INFO - [2019-08-14 12:17:58,087] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:17:58,094] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:17:58,134] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 12:18:10,096] {scheduler_job.py:146} INFO - Started process (PID=3818) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:18:10,100] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:18:10,100] {logging_mixin.py:95} INFO - [2019-08-14 12:18:10,100] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:18:10,105] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:18:10,144] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.048 seconds
+[2019-08-14 12:18:22,111] {scheduler_job.py:146} INFO - Started process (PID=3826) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:18:22,114] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:18:22,115] {logging_mixin.py:95} INFO - [2019-08-14 12:18:22,115] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:18:22,121] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:18:22,160] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.049 seconds
+[2019-08-14 12:18:34,125] {scheduler_job.py:146} INFO - Started process (PID=3832) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:18:34,129] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:18:34,130] {logging_mixin.py:95} INFO - [2019-08-14 12:18:34,130] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:18:34,136] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:18:34,180] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.055 seconds
+[2019-08-14 12:18:46,142] {scheduler_job.py:146} INFO - Started process (PID=3838) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:18:46,146] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:18:46,146] {logging_mixin.py:95} INFO - [2019-08-14 12:18:46,146] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:18:46,152] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:18:46,188] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.045 seconds
+[2019-08-14 12:18:58,154] {scheduler_job.py:146} INFO - Started process (PID=3844) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:18:58,158] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:18:58,159] {logging_mixin.py:95} INFO - [2019-08-14 12:18:58,159] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:18:58,165] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:18:58,209] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.055 seconds
+[2019-08-14 12:19:10,177] {scheduler_job.py:146} INFO - Started process (PID=3852) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:19:10,182] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:19:10,182] {logging_mixin.py:95} INFO - [2019-08-14 12:19:10,182] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:19:10,190] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:19:10,229] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.052 seconds
+[2019-08-14 12:19:22,194] {scheduler_job.py:146} INFO - Started process (PID=3858) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:19:22,199] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:19:22,200] {logging_mixin.py:95} INFO - [2019-08-14 12:19:22,200] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:19:22,208] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:19:22,259] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.065 seconds
+[2019-08-14 12:19:34,200] {scheduler_job.py:146} INFO - Started process (PID=3864) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:19:34,203] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:19:34,204] {logging_mixin.py:95} INFO - [2019-08-14 12:19:34,204] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:19:34,209] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:19:34,248] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.048 seconds
+[2019-08-14 12:19:46,215] {scheduler_job.py:146} INFO - Started process (PID=3870) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:19:46,218] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:19:46,219] {logging_mixin.py:95} INFO - [2019-08-14 12:19:46,219] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:19:46,224] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:19:46,263] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.048 seconds
+[2019-08-14 12:19:58,229] {scheduler_job.py:146} INFO - Started process (PID=3876) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:19:58,232] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:19:58,233] {logging_mixin.py:95} INFO - [2019-08-14 12:19:58,233] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:19:58,238] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:19:58,273] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.043 seconds
+[2019-08-14 12:20:10,249] {scheduler_job.py:146} INFO - Started process (PID=3883) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:20:10,253] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:20:10,253] {logging_mixin.py:95} INFO - [2019-08-14 12:20:10,253] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:20:10,259] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:20:10,299] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 12:20:22,260] {scheduler_job.py:146} INFO - Started process (PID=3890) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:20:22,263] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:20:22,264] {logging_mixin.py:95} INFO - [2019-08-14 12:20:22,263] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:20:22,269] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:20:22,318] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.058 seconds
+[2019-08-14 12:20:34,277] {scheduler_job.py:146} INFO - Started process (PID=3896) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:20:34,281] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:20:34,282] {logging_mixin.py:95} INFO - [2019-08-14 12:20:34,282] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:20:34,289] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:20:34,343] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.066 seconds
+[2019-08-14 12:20:46,289] {scheduler_job.py:146} INFO - Started process (PID=3902) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:20:46,293] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:20:46,293] {logging_mixin.py:95} INFO - [2019-08-14 12:20:46,293] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:20:46,299] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:20:46,346] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.057 seconds
+[2019-08-14 12:20:58,303] {scheduler_job.py:146} INFO - Started process (PID=3908) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:20:58,307] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:20:58,307] {logging_mixin.py:95} INFO - [2019-08-14 12:20:58,307] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:20:58,314] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:20:58,360] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.058 seconds
+[2019-08-14 12:21:10,316] {scheduler_job.py:146} INFO - Started process (PID=3916) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:21:10,320] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:21:10,321] {logging_mixin.py:95} INFO - [2019-08-14 12:21:10,321] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:21:10,327] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:21:10,371] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.055 seconds
+[2019-08-14 12:21:22,331] {scheduler_job.py:146} INFO - Started process (PID=3923) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:21:22,334] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:21:22,335] {logging_mixin.py:95} INFO - [2019-08-14 12:21:22,335] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:21:22,341] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:21:22,378] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.047 seconds
+[2019-08-14 12:21:34,348] {scheduler_job.py:146} INFO - Started process (PID=3929) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:21:34,352] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:21:34,353] {logging_mixin.py:95} INFO - [2019-08-14 12:21:34,353] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:21:34,360] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:21:34,403] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.056 seconds
+[2019-08-14 12:21:46,359] {scheduler_job.py:146} INFO - Started process (PID=3935) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:21:46,363] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:21:46,363] {logging_mixin.py:95} INFO - [2019-08-14 12:21:46,363] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:21:46,368] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:21:46,406] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.047 seconds
+[2019-08-14 12:21:58,373] {scheduler_job.py:146} INFO - Started process (PID=3941) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:21:58,376] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:21:58,377] {logging_mixin.py:95} INFO - [2019-08-14 12:21:58,377] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:21:58,382] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:21:58,425] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.053 seconds
+[2019-08-14 12:22:10,389] {scheduler_job.py:146} INFO - Started process (PID=3949) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:22:10,393] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:22:10,393] {logging_mixin.py:95} INFO - [2019-08-14 12:22:10,393] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:22:10,400] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:22:10,441] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.052 seconds
+[2019-08-14 12:22:22,403] {scheduler_job.py:146} INFO - Started process (PID=3955) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:22:22,406] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:22:22,406] {logging_mixin.py:95} INFO - [2019-08-14 12:22:22,406] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:22:22,412] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:22:22,453] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 12:22:34,418] {scheduler_job.py:146} INFO - Started process (PID=3961) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:22:34,422] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:22:34,423] {logging_mixin.py:95} INFO - [2019-08-14 12:22:34,422] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:22:34,429] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:22:34,471] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.053 seconds
+[2019-08-14 12:22:46,432] {scheduler_job.py:146} INFO - Started process (PID=3967) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:22:46,435] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:22:46,436] {logging_mixin.py:95} INFO - [2019-08-14 12:22:46,436] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:22:46,443] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:22:46,488] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.057 seconds
+[2019-08-14 12:22:58,445] {scheduler_job.py:146} INFO - Started process (PID=3973) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:22:58,448] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:22:58,449] {logging_mixin.py:95} INFO - [2019-08-14 12:22:58,449] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:22:58,456] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:22:58,494] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.049 seconds
+[2019-08-14 12:23:10,460] {scheduler_job.py:146} INFO - Started process (PID=3981) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:23:10,463] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:23:10,464] {logging_mixin.py:95} INFO - [2019-08-14 12:23:10,464] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:23:10,470] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:23:10,510] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 12:23:22,475] {scheduler_job.py:146} INFO - Started process (PID=3987) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:23:22,479] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:23:22,480] {logging_mixin.py:95} INFO - [2019-08-14 12:23:22,480] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:23:22,488] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:23:22,529] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.053 seconds
+[2019-08-14 12:23:34,492] {scheduler_job.py:146} INFO - Started process (PID=3993) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:23:34,495] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:23:34,495] {logging_mixin.py:95} INFO - [2019-08-14 12:23:34,495] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:23:34,501] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:23:34,541] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.049 seconds
+[2019-08-14 12:23:46,504] {scheduler_job.py:146} INFO - Started process (PID=3999) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:23:46,508] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:23:46,508] {logging_mixin.py:95} INFO - [2019-08-14 12:23:46,508] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:23:46,514] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:23:46,547] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.043 seconds
+[2019-08-14 12:23:58,517] {scheduler_job.py:146} INFO - Started process (PID=4005) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:23:58,520] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:23:58,520] {logging_mixin.py:95} INFO - [2019-08-14 12:23:58,520] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:23:58,527] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:23:58,562] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.045 seconds
+[2019-08-14 12:24:10,532] {scheduler_job.py:146} INFO - Started process (PID=4013) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:24:10,535] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:24:10,536] {logging_mixin.py:95} INFO - [2019-08-14 12:24:10,536] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:24:10,542] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:24:10,575] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.044 seconds
+[2019-08-14 12:24:22,544] {scheduler_job.py:146} INFO - Started process (PID=4019) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:24:22,547] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:24:22,548] {logging_mixin.py:95} INFO - [2019-08-14 12:24:22,548] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:24:22,553] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:24:22,587] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.042 seconds
+[2019-08-14 12:24:34,561] {scheduler_job.py:146} INFO - Started process (PID=4025) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:24:34,564] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:24:34,565] {logging_mixin.py:95} INFO - [2019-08-14 12:24:34,565] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:24:34,571] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:24:34,618] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.057 seconds
+[2019-08-14 12:24:46,572] {scheduler_job.py:146} INFO - Started process (PID=4031) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:24:46,574] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:24:46,575] {logging_mixin.py:95} INFO - [2019-08-14 12:24:46,575] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:24:46,580] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:24:46,608] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.037 seconds
+[2019-08-14 12:24:58,592] {scheduler_job.py:146} INFO - Started process (PID=4037) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:24:58,595] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:24:58,596] {logging_mixin.py:95} INFO - [2019-08-14 12:24:58,595] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:24:58,601] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:24:58,634] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.042 seconds
+[2019-08-14 12:25:10,603] {scheduler_job.py:146} INFO - Started process (PID=4045) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:25:10,606] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:25:10,606] {logging_mixin.py:95} INFO - [2019-08-14 12:25:10,606] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:25:10,611] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:25:10,642] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.039 seconds
+[2019-08-14 12:25:22,619] {scheduler_job.py:146} INFO - Started process (PID=4051) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:25:22,622] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:25:22,623] {logging_mixin.py:95} INFO - [2019-08-14 12:25:22,623] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:25:22,629] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:25:22,668] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.049 seconds
+[2019-08-14 12:25:34,632] {scheduler_job.py:146} INFO - Started process (PID=4057) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:25:34,635] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:25:34,635] {logging_mixin.py:95} INFO - [2019-08-14 12:25:34,635] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:25:34,641] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:25:34,681] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 12:25:46,646] {scheduler_job.py:146} INFO - Started process (PID=4063) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:25:46,649] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:25:46,649] {logging_mixin.py:95} INFO - [2019-08-14 12:25:46,649] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:25:46,656] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:25:46,690] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.045 seconds
+[2019-08-14 12:25:58,661] {scheduler_job.py:146} INFO - Started process (PID=4071) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:25:58,664] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:25:58,665] {logging_mixin.py:95} INFO - [2019-08-14 12:25:58,665] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:25:58,672] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:25:58,717] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.056 seconds
+[2019-08-14 12:26:10,674] {scheduler_job.py:146} INFO - Started process (PID=4077) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:26:10,677] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:26:10,677] {logging_mixin.py:95} INFO - [2019-08-14 12:26:10,677] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:26:10,683] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:26:10,721] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.047 seconds
+[2019-08-14 12:26:22,692] {scheduler_job.py:146} INFO - Started process (PID=4084) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:26:22,696] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:26:22,696] {logging_mixin.py:95} INFO - [2019-08-14 12:26:22,696] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:26:22,702] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:26:22,736] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.043 seconds
+[2019-08-14 12:26:34,704] {scheduler_job.py:146} INFO - Started process (PID=4090) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:26:34,707] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:26:34,708] {logging_mixin.py:95} INFO - [2019-08-14 12:26:34,708] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:26:34,715] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:26:34,748] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.045 seconds
+[2019-08-14 12:26:46,718] {scheduler_job.py:146} INFO - Started process (PID=4096) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:26:46,722] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:26:46,723] {logging_mixin.py:95} INFO - [2019-08-14 12:26:46,723] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:26:46,730] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:26:46,772] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.053 seconds
+[2019-08-14 12:26:58,733] {scheduler_job.py:146} INFO - Started process (PID=4104) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:26:58,736] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:26:58,737] {logging_mixin.py:95} INFO - [2019-08-14 12:26:58,737] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:26:58,743] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:26:58,780] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.047 seconds
+[2019-08-14 12:27:10,749] {scheduler_job.py:146} INFO - Started process (PID=4110) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:27:10,752] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:27:10,752] {logging_mixin.py:95} INFO - [2019-08-14 12:27:10,752] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:27:10,758] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:27:10,799] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 12:27:22,762] {scheduler_job.py:146} INFO - Started process (PID=4116) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:27:22,766] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:27:22,766] {logging_mixin.py:95} INFO - [2019-08-14 12:27:22,766] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:27:22,773] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:27:22,811] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.049 seconds
+[2019-08-14 12:27:34,773] {scheduler_job.py:146} INFO - Started process (PID=4122) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:27:34,776] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:27:34,777] {logging_mixin.py:95} INFO - [2019-08-14 12:27:34,777] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:27:34,783] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:27:34,819] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.046 seconds
+[2019-08-14 12:27:46,789] {scheduler_job.py:146} INFO - Started process (PID=4128) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:27:46,792] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:27:46,792] {logging_mixin.py:95} INFO - [2019-08-14 12:27:46,792] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:27:46,798] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:27:46,835] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.045 seconds
+[2019-08-14 12:27:58,803] {scheduler_job.py:146} INFO - Started process (PID=4136) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:27:58,806] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:27:58,807] {logging_mixin.py:95} INFO - [2019-08-14 12:27:58,807] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:27:58,813] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:27:58,850] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.047 seconds
+[2019-08-14 12:28:10,819] {scheduler_job.py:146} INFO - Started process (PID=4142) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:28:10,822] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:28:10,823] {logging_mixin.py:95} INFO - [2019-08-14 12:28:10,823] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:28:10,830] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:28:10,872] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.053 seconds
+[2019-08-14 12:28:22,834] {scheduler_job.py:146} INFO - Started process (PID=4148) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:28:22,838] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:28:22,839] {logging_mixin.py:95} INFO - [2019-08-14 12:28:22,839] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:28:22,847] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:28:22,894] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.060 seconds
+[2019-08-14 12:28:34,847] {scheduler_job.py:146} INFO - Started process (PID=4154) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:28:34,850] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:28:34,851] {logging_mixin.py:95} INFO - [2019-08-14 12:28:34,851] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:28:34,857] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:28:34,892] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.045 seconds
+[2019-08-14 12:28:46,864] {scheduler_job.py:146} INFO - Started process (PID=4162) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:28:46,867] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:28:46,868] {logging_mixin.py:95} INFO - [2019-08-14 12:28:46,868] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:28:46,875] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:28:46,913] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.049 seconds
+[2019-08-14 12:28:58,877] {scheduler_job.py:146} INFO - Started process (PID=4168) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:28:58,880] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:28:58,880] {logging_mixin.py:95} INFO - [2019-08-14 12:28:58,880] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:28:58,886] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:28:58,950] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.073 seconds
+[2019-08-14 12:29:10,891] {scheduler_job.py:146} INFO - Started process (PID=4174) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:29:10,894] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:29:10,894] {logging_mixin.py:95} INFO - [2019-08-14 12:29:10,894] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:29:10,901] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:29:10,934] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.044 seconds
+[2019-08-14 12:29:22,903] {scheduler_job.py:146} INFO - Started process (PID=4181) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:29:22,906] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:29:22,906] {logging_mixin.py:95} INFO - [2019-08-14 12:29:22,906] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:29:22,912] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:29:22,947] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.044 seconds
+[2019-08-14 12:29:34,919] {scheduler_job.py:146} INFO - Started process (PID=4187) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:29:34,922] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:29:34,923] {logging_mixin.py:95} INFO - [2019-08-14 12:29:34,923] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:29:34,930] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:29:34,970] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.052 seconds
+[2019-08-14 12:29:46,935] {scheduler_job.py:146} INFO - Started process (PID=4195) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:29:46,938] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:29:46,939] {logging_mixin.py:95} INFO - [2019-08-14 12:29:46,939] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:29:46,946] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:29:47,007] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.073 seconds
+[2019-08-14 12:29:58,949] {scheduler_job.py:146} INFO - Started process (PID=4201) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:29:58,953] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:29:58,954] {logging_mixin.py:95} INFO - [2019-08-14 12:29:58,954] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:29:58,962] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:29:59,009] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.060 seconds
+[2019-08-14 12:30:10,962] {scheduler_job.py:146} INFO - Started process (PID=4207) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:30:10,965] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:30:10,966] {logging_mixin.py:95} INFO - [2019-08-14 12:30:10,966] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:30:10,973] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:30:11,024] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.062 seconds
+[2019-08-14 12:30:22,977] {scheduler_job.py:146} INFO - Started process (PID=4213) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:30:22,981] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:30:22,981] {logging_mixin.py:95} INFO - [2019-08-14 12:30:22,981] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:30:22,988] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:30:23,029] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.052 seconds
+[2019-08-14 12:30:34,991] {scheduler_job.py:146} INFO - Started process (PID=4219) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:30:34,994] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:30:34,995] {logging_mixin.py:95} INFO - [2019-08-14 12:30:34,995] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:30:35,002] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:30:35,041] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 12:30:47,006] {scheduler_job.py:146} INFO - Started process (PID=4227) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:30:47,010] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:30:47,011] {logging_mixin.py:95} INFO - [2019-08-14 12:30:47,011] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:30:47,020] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:30:47,068] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.062 seconds
+[2019-08-14 12:30:59,021] {scheduler_job.py:146} INFO - Started process (PID=4233) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:30:59,025] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:30:59,025] {logging_mixin.py:95} INFO - [2019-08-14 12:30:59,025] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:30:59,033] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:30:59,080] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.059 seconds
+[2019-08-14 12:31:11,034] {scheduler_job.py:146} INFO - Started process (PID=4239) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:31:11,037] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:31:11,038] {logging_mixin.py:95} INFO - [2019-08-14 12:31:11,038] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:31:11,044] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:31:11,084] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 12:31:23,049] {scheduler_job.py:146} INFO - Started process (PID=4245) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:31:23,054] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:31:23,054] {logging_mixin.py:95} INFO - [2019-08-14 12:31:23,054] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:31:23,062] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:31:23,107] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.058 seconds
+[2019-08-14 12:31:35,064] {scheduler_job.py:146} INFO - Started process (PID=4251) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:31:35,068] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:31:35,068] {logging_mixin.py:95} INFO - [2019-08-14 12:31:35,068] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:31:35,077] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:31:35,125] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.061 seconds
+[2019-08-14 12:31:47,077] {scheduler_job.py:146} INFO - Started process (PID=4259) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:31:47,080] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:31:47,081] {logging_mixin.py:95} INFO - [2019-08-14 12:31:47,080] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:31:47,086] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:31:47,124] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.047 seconds
+[2019-08-14 12:31:59,095] {scheduler_job.py:146} INFO - Started process (PID=4266) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:31:59,099] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:31:59,099] {logging_mixin.py:95} INFO - [2019-08-14 12:31:59,099] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:31:59,107] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:31:59,150] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.055 seconds
+[2019-08-14 12:32:11,105] {scheduler_job.py:146} INFO - Started process (PID=4272) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:32:11,109] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:32:11,110] {logging_mixin.py:95} INFO - [2019-08-14 12:32:11,110] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:32:11,117] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:32:11,159] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.053 seconds
+[2019-08-14 12:32:23,122] {scheduler_job.py:146} INFO - Started process (PID=4280) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:32:23,126] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:32:23,126] {logging_mixin.py:95} INFO - [2019-08-14 12:32:23,126] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:32:23,134] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:32:23,176] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.055 seconds
+[2019-08-14 12:32:35,136] {scheduler_job.py:146} INFO - Started process (PID=4286) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:32:35,140] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:32:35,141] {logging_mixin.py:95} INFO - [2019-08-14 12:32:35,141] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:32:35,149] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:32:35,192] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.056 seconds
+[2019-08-14 12:32:47,150] {scheduler_job.py:146} INFO - Started process (PID=4294) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:32:47,155] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:32:47,155] {logging_mixin.py:95} INFO - [2019-08-14 12:32:47,155] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:32:47,163] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:32:47,204] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.053 seconds
+[2019-08-14 12:32:59,166] {scheduler_job.py:146} INFO - Started process (PID=4300) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:32:59,170] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:32:59,171] {logging_mixin.py:95} INFO - [2019-08-14 12:32:59,170] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:32:59,178] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:32:59,216] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 12:33:11,177] {scheduler_job.py:146} INFO - Started process (PID=4306) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:33:11,181] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:33:11,181] {logging_mixin.py:95} INFO - [2019-08-14 12:33:11,181] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:33:11,188] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:33:11,224] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.047 seconds
+[2019-08-14 12:33:23,197] {scheduler_job.py:146} INFO - Started process (PID=4312) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:33:23,201] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:33:23,202] {logging_mixin.py:95} INFO - [2019-08-14 12:33:23,202] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:33:23,211] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:33:23,254] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.058 seconds
+[2019-08-14 12:33:35,206] {scheduler_job.py:146} INFO - Started process (PID=4318) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:33:35,209] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:33:35,210] {logging_mixin.py:95} INFO - [2019-08-14 12:33:35,210] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:33:35,217] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:33:35,264] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.059 seconds
+[2019-08-14 12:33:47,221] {scheduler_job.py:146} INFO - Started process (PID=4326) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:33:47,224] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:33:47,225] {logging_mixin.py:95} INFO - [2019-08-14 12:33:47,225] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:33:47,231] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:33:47,270] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.049 seconds
+[2019-08-14 12:33:59,236] {scheduler_job.py:146} INFO - Started process (PID=4332) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:33:59,240] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:33:59,241] {logging_mixin.py:95} INFO - [2019-08-14 12:33:59,241] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:33:59,251] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:33:59,291] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.055 seconds
+[2019-08-14 12:34:11,250] {scheduler_job.py:146} INFO - Started process (PID=4338) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:34:11,253] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:34:11,254] {logging_mixin.py:95} INFO - [2019-08-14 12:34:11,254] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:34:11,261] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:34:11,300] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.050 seconds
+[2019-08-14 12:34:23,263] {scheduler_job.py:146} INFO - Started process (PID=4344) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:34:23,266] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:34:23,267] {logging_mixin.py:95} INFO - [2019-08-14 12:34:23,267] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:34:23,273] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:34:23,315] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 12:34:35,279] {scheduler_job.py:146} INFO - Started process (PID=4354) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:34:35,283] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:34:35,284] {logging_mixin.py:95} INFO - [2019-08-14 12:34:35,284] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:34:35,291] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:34:35,326] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.046 seconds
+[2019-08-14 12:34:47,292] {scheduler_job.py:146} INFO - Started process (PID=4360) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:34:47,296] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:34:47,296] {logging_mixin.py:95} INFO - [2019-08-14 12:34:47,296] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:34:47,304] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:34:47,343] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.051 seconds
+[2019-08-14 12:34:59,308] {scheduler_job.py:146} INFO - Started process (PID=4366) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:34:59,313] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:34:59,313] {logging_mixin.py:95} INFO - [2019-08-14 12:34:59,313] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:34:59,321] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:34:59,360] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.052 seconds
+[2019-08-14 12:35:11,322] {scheduler_job.py:146} INFO - Started process (PID=4372) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:35:11,324] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:35:11,325] {logging_mixin.py:95} INFO - [2019-08-14 12:35:11,325] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:35:11,330] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:35:11,366] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.044 seconds
+[2019-08-14 12:35:23,335] {scheduler_job.py:146} INFO - Started process (PID=4504) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:35:23,338] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:35:23,339] {logging_mixin.py:95} INFO - [2019-08-14 12:35:23,339] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:35:23,345] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:35:23,381] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.046 seconds
+[2019-08-14 12:35:35,349] {scheduler_job.py:146} INFO - Started process (PID=4515) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:35:35,352] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:35:35,353] {logging_mixin.py:95} INFO - [2019-08-14 12:35:35,353] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:35:35,359] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:35:35,395] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.045 seconds
+[2019-08-14 12:35:47,367] {scheduler_job.py:146} INFO - Started process (PID=4525) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:35:47,370] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:35:47,370] {logging_mixin.py:95} INFO - [2019-08-14 12:35:47,370] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:35:47,377] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:35:47,413] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.046 seconds
+[2019-08-14 12:35:59,376] {scheduler_job.py:146} INFO - Started process (PID=4531) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:35:59,379] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:35:59,380] {logging_mixin.py:95} INFO - [2019-08-14 12:35:59,380] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:35:59,385] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:35:59,418] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.041 seconds
+[2019-08-14 12:36:11,393] {scheduler_job.py:146} INFO - Started process (PID=4539) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:36:11,397] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:36:11,398] {logging_mixin.py:95} INFO - [2019-08-14 12:36:11,398] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:36:11,404] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:36:11,439] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.045 seconds
+[2019-08-14 12:36:23,411] {scheduler_job.py:146} INFO - Started process (PID=4648) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:36:23,414] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:36:23,415] {logging_mixin.py:95} INFO - [2019-08-14 12:36:23,414] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:36:23,421] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:36:23,457] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.046 seconds
+[2019-08-14 12:36:35,422] {scheduler_job.py:146} INFO - Started process (PID=4656) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:36:35,426] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:36:35,427] {logging_mixin.py:95} INFO - [2019-08-14 12:36:35,427] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:36:35,436] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:36:35,477] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.055 seconds
+[2019-08-14 12:36:47,438] {scheduler_job.py:146} INFO - Started process (PID=4664) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:36:47,441] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:36:47,442] {logging_mixin.py:95} INFO - [2019-08-14 12:36:47,442] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:36:47,448] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:36:47,487] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.049 seconds
+[2019-08-14 12:36:59,449] {scheduler_job.py:146} INFO - Started process (PID=4674) to work on /root/airflow/dags/blah1.py
+[2019-08-14 12:36:59,452] {scheduler_job.py:1493} INFO - Processing file /root/airflow/dags/blah1.py for tasks to queue
+[2019-08-14 12:36:59,452] {logging_mixin.py:95} INFO - [2019-08-14 12:36:59,452] {dagbag.py:90} INFO - Filling up the DagBag from /root/airflow/dags/blah1.py
+[2019-08-14 12:36:59,457] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['blah1']) retrieved from /root/airflow/dags/blah1.py
+[2019-08-14 12:36:59,493] {scheduler_job.py:152} INFO - Processing /root/airflow/dags/blah1.py took 0.044 seconds
