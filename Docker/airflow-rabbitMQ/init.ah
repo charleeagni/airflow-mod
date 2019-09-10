@@ -1,0 +1,4 @@
+rabbitmqctl add_user admin admin123
+rabbitmqctl set_user_tags admin administrator
+rabbitmqctl add_vhost vh1
+rabbitmqctl set_permissions -p vh1 admin ".*"
